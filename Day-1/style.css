@@ -1,0 +1,49 @@
+*{
+    margin : 0;
+    padding : 0;
+    box-sizing : border-box;
+}
+.child1{
+    width:15vw;
+    height:25vh;
+    border: 3px solid black;
+    position : absolute;
+    top: 40px;
+    left: 200px;
+}
+
+.child2{
+    width:15vw;
+    height:25vh;
+    border: 3px solid black;
+    position : absolute;
+    top: 40px;
+    left: 800px;
+}
+
+.child3{
+    width:15vw;
+    height:25vh;
+    border: 3px solid black;
+    position: absolute;
+    top: 230px;
+    left:500px;
+}
+
+.child4{
+    width:15vw;
+    height:25vh;
+    border: 3px solid black;
+    position : absolute;
+    top: 430px;
+    left: 200px;
+}
+
+.child5{
+    width:15vw;
+    height:25vh;
+    border: 3px solid black;
+    position : absolute;
+    top: 430px;
+    left: 800px;
+}
