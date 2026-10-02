@@ -20,7 +20,7 @@
     /* border: 2px solid rgb(92, 221, 33); */
 }
 #img1:hover{
-    transform:scale(2);
+    transform:skew(10deg,10deg);
     transition-duration: 0.5s;
 }
 
@@ -44,7 +44,7 @@
 }
 
 #img2:hover{
-    transform:scale(2);
+    transform:skew(10deg,10deg);
     transition-duration: 0.5s;
 }
 .child3{
@@ -54,7 +54,7 @@
 }
 
 #img3:hover{
-    transform:scale(2);
+    transform:skew(10deg,10deg);
     transition-duration: 0.5s;
 }
 .child4{
@@ -63,6 +63,6 @@
     /* border: 2px solid rgb(61, 33, 221); */
 }
 #img4:hover{
-    transform:scale(2);
+    transform:skew(10deg,10deg);
     transition-duration: 0.5s;
 }
